@@ -1,2 +1,1 @@
-# jan-30
-welcome back
+learning python with machine learning 
